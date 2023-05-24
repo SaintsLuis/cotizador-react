@@ -34,5 +34,5 @@ Antes de utilizar esta aplicación, asegúrate de tener instalado lo siguiente:
 
 ## Créditos
 
-- [Nombre del colaborador 1](https://github.com/SaintsLuis/cotizador-react)
-- [Nombre del colaborador 2](https://github.com/codigoconjuan)
+- [Luis M Santos](https://github.com/SaintsLuis/cotizador-react)
+- [Juan Pablo De la torre Valdez](https://github.com/codigoconjuan)
