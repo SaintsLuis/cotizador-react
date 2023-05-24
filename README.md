@@ -1,6 +1,6 @@
 # Cotizador de Seguros de Auto
 
-Este es un proyecto de una aplicación de cotización de seguros de auto desarrollada en React.
+Este es un proyecto de una aplicación de cotización de seguros de auto desarrollada en React, TailwindCSS, Vite.
 
 ## Descripción
 
