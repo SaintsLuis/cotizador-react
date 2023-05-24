@@ -17,12 +17,12 @@ El cotizador de seguros de auto es una aplicación que permite a los usuarios ca
 
 Antes de utilizar esta aplicación, asegúrate de tener instalado lo siguiente:
 
-- Node.js (versión X.X.X o superior)
-- NPM (versión X.X.X o superior)
+- Node.js (versión v18.12.1 o superior)
+- NPM (versión 9.6.6 o superior)
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/tu-proyecto.git`
+1. Clona el repositorio: `git clone https://github.com/SaintsLuis/cotizador-react`
 2. Navega al directorio del proyecto: `cd tu-proyecto`
 3. Instala las dependencias: `npm install`
 
@@ -32,17 +32,7 @@ Antes de utilizar esta aplicación, asegúrate de tener instalado lo siguiente:
 2. Abre tu navegador web y ve a: `http://localhost:3000`
 3. Ingresa los detalles del auto en el formulario y presiona el botón "Cotizar" para obtener la cotización del seguro.
 
-## Contribución
-
-Si deseas contribuir a este proyecto, sigue los siguientes pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama: `git checkout -b mi-rama`
-3. Realiza tus cambios y realiza commits: `git commit -m "Descripción de los cambios"`
-4. Sube tus cambios a tu fork: `git push origin mi-rama`
-5. Abre un pull request en el repositorio original.
-
 ## Créditos
 
-- [Nombre del colaborador 1](https://github.com/colaborador1)
-- [Nombre del colaborador 2](https://github.com/colaborador2)
+- [Nombre del colaborador 1](https://github.com/SaintsLuis/cotizador-react)
+- [Nombre del colaborador 2](https://github.com/codigoconjuan)
